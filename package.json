@@ -1,0 +1,24 @@
+{
+  "name": "node-testing",
+  "version": "1.0.0",
+  "description": "This is a test repo....",
+  "main": "main.js",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LKPridgeon/node-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LKPridgeon/node-testing/issues"
+  },
+  "homepage": "https://github.com/LKPridgeon/node-testing#readme"
+}
